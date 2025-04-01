@@ -115,7 +115,7 @@ Instant     : Natychmiast
 #pLzsBbTg : Dupek
 #4RTc99yb : Przyjaciel B?
 #tw0XwZPt : Pani Kent
-#0QmXgHRv : Ponura dusza
+#0QmXgHRv : Nieczysta dusza
 #5HNPCD16 : Nieistotne
 #fWMKrVlY : Sklepikarz
 #sRHdDgpD : Żeński głos
@@ -133,194 +133,194 @@ Instant     : Natychmiast
 #k6Cfjgc2 : Coś przerażającego
 
 [ITEMS]
-#Q64WLbpK : Axe
-#XPq1mn2n : Cap
-#cX5S7HDb : Cup
-#5YBRrwwM : Gun
-#25X78jrY : Gun
-#zp5MzCb4 : Hay
-#tfJBRzjg : Key
+#Q64WLbpK : Siekera
+#XPq1mn2n : Czapka
+#cX5S7HDb : Kubek
+#5YBRrwwM : Pistolet
+#25X78jrY : Pistolet
+#zp5MzCb4 : Siano
+#tfJBRzjg : Klucz
 #WjQC7gwG : Mop
-#Fjdcf6mk : Pen
-#PJBHqk1H : Pot
-#yGgkwhg1 : Book
-#2NYFrD9F : Cans
+#Fjdcf6mk : Długopis
+#PJBHqk1H : Garnek
+#yGgkwhg1 : Książka
+#2NYFrD9F : Puszki
 #fHJzJR8b : Carl
-#xjsZh7d9 : FOOD
-#2Zs8gxt9 : Face
-#rSSVJhRL : Food
-#94HdHXQ2 : Gift
-#4RkFhJtS : Head
-#bcJcF5Hn : Head
-#wT2p3GGb : Limb
-#10LXXCvh : Meat
-#qWdV5Q5P : Rake
-#kw5Pl0Q0 : Rock
-#0f4PLp6B : Rope
-#6Zf8kVrz : Shoe
-#jn1lFKvw : Star
-#J6GR3WC2 : Tape
-#gpRwj5NR : Yarn
-#fSV70fzr : Blood
-#3G8mmLGy : Bones
-#HJ8JQFkv : Brick
-#WFHLLj60 : Heart
-#1hbRHX0Y : Knife
-#rJLHX5bx : Limbs
-#JXmY5ZDJ : MONEY
-#VvRgdYRd : Rocks
-#w91Xmr2t : Skull
-#4wjVl891 : Stick
-#mJbH9Cy4 : Stick
-#4rBsSPWn : Stone
-#Q2TzhbMK : Stool
-#ySVJnTrv : Swing
-#LtDRv2vm : Teeth
-#K5ZHqLzv : Tongs
-#Cd6nDwJT : Torso
-#hgzd22zx : Trash
-#SBKLQbNW : Twigs
-#JRF64tnr : Water
-#MHFXrtF4 : Bottle
-#vzcXcTKL : Bucket
-#8c7PT8zM : Candle
-#kJ3gmGrP : Carpet
+#xjsZh7d9 : ŻYWNOŚĆ
+#2Zs8gxt9 : Twarz
+#rSSVJhRL : Jedzenie
+#94HdHXQ2 : Prezent
+#4RkFhJtS : Głowa
+#bcJcF5Hn : Głowa
+#wT2p3GGb : Kończyna
+#10LXXCvh : Mięso
+#qWdV5Q5P : Grabie
+#kw5Pl0Q0 : Kamień
+#0f4PLp6B : Lina
+#6Zf8kVrz : But
+#jn1lFKvw : Gwiazda
+#J6GR3WC2 : Taśma klejąca
+#gpRwj5NR : Przędza
+#fSV70fzr : Krew
+#3G8mmLGy : Kości
+#HJ8JQFkv : Cegła
+#WFHLLj60 : Serce
+#1hbRHX0Y : Nóż
+#rJLHX5bx : Kończyny
+#JXmY5ZDJ : HAJS
+#VvRgdYRd : Kamienie
+#w91Xmr2t : Czaszka
+#4wjVl891 : Kij
+#mJbH9Cy4 : Kij
+#4rBsSPWn : Kamień
+#Q2TzhbMK : Taboret
+#ySVJnTrv : Huśtawka
+#LtDRv2vm : Zęby
+#K5ZHqLzv : Szczypce
+#Cd6nDwJT : Tors
+#hgzd22zx : Śmieci
+#SBKLQbNW : Gałązki
+#JRF64tnr : Woda
+#MHFXrtF4 : Butelka
+#vzcXcTKL : Wiadro
+#8c7PT8zM : Świeczka
+#kJ3gmGrP : Dywan
 #CChRhBmd : Choker
-#4K2Mqlr2 : Dishes
-#zmvJY93F : F2 Key
-#T4HRymgB : F3 Key
-#rh6j9SC0 : F4 Key
-#wTqqbQtQ : Flower
-#GdCP7yNQ : Hammer
-#4kqVnlFZ : Handle
-#cryhnR8y : Onions
-#ym5CxvqQ : Organs
-#ynwhfCt9 : Pillow
-#1ymhwP3m : Ribbon
-#GcNR49Cz : Shovel
-#mry9dtlX : Sprout
-#BnRx8Rjr : Tassel
-#CrcBH2R1 : Trowel
-#mMs4CM6Z : Ashtray
-#d5znJj44 : Brother
-#bFVDpQHJ : Carrots
-#vDpbX9dl : Cleaver
-#V46cZz9M : Curtain
-#079J4j43 : Foliage
-#G5qmW5sD : Key 302
-#xN0TJRxS : Key 405
-#MQdJwNKw : Laundry
-#VnYrC9d1 : Lighter
-#PDLgvrxS : Student
-#xGGDvTdl : Trinket
-#vGt4FgW5 : Vinegar
-#N1G9lzBC : Backpack
-#txGDLVM0 : Bandages
-#sK3LnFLp : Car Keys
-#TJ2wyHFS : Car Keys
-#4Slvt8rS : Firewood
-#GVkp15J5 : Left Arm
-#6Jn2MW4L : Left Leg
-#cDGq6gvz : Lovesick
-#kB1q3KX5 : Murderer
-#0GFpSFL0 : Nail Gun
-#PqwVb4Zr : Nail Gun
-#bYH3MYtV : Potatoes
-#NKLV8V9N : Sunshine
-#JTW1mmGW : Talisman
-#ChCyFFcj : Batteries
-#81FBCtPT : Chocolate
+#4K2Mqlr2 : Naczynia
+#zmvJY93F : Klawisz F2
+#T4HRymgB : Klawisz F3
+#rh6j9SC0 : Klawisz F4
+#wTqqbQtQ : Kwiat
+#GdCP7yNQ : Młotek
+#4kqVnlFZ : Uchwyt
+#cryhnR8y : Cebule
+#ym5CxvqQ : Organy
+#ynwhfCt9 : Poduszka
+#1ymhwP3m : Żebro
+#GcNR49Cz : Łopata
+#mry9dtlX : Sadzonka
+#BnRx8Rjr : Frędzel
+#CrcBH2R1 : Kielnia
+#mMs4CM6Z : Popielniczka
+#d5znJj44 : Brat
+#bFVDpQHJ : Marchewki
+#vDpbX9dl : Tasak
+#V46cZz9M : Kurtyna
+#079J4j43 : Listowie
+#G5qmW5sD : Klucz 302
+#xN0TJRxS : Klucz 405
+#MQdJwNKw : Pranie
+#VnYrC9d1 : Zapalniczka
+#PDLgvrxS : Uczeń
+#xGGDvTdl : Drobiazg
+#vGt4FgW5 : Ocet
+#N1G9lzBC : Plecak
+#txGDLVM0 : Bandaże
+#sK3LnFLp : Klucze do auta
+#TJ2wyHFS : Klucze do auta
+#4Slvt8rS : Chrust
+#GVkp15J5 : Lewa ręka
+#6Jn2MW4L : Lewa noga
+#cDGq6gvz : Zakochany do szaleństwa
+#kB1q3KX5 : Morderca
+#0GFpSFL0 : Pistolet na gwoździe
+#PqwVb4Zr : Pistolet na gwoździe
+#bYH3MYtV : Ziemniaki
+#NKLV8V9N : Promyk słońca
+#JTW1mmGW : Talizman
+#ChCyFFcj : Baterie
+#81FBCtPT : Czekolada
 #RCbLxlVH : Detergent
-#xqjdlqT8 : Documents
-#lbc60vPN : Eye Token
-#25p1WkfS : GROCERIES
-#QmQDkr1S : Knowledge
-#3SSqdptK : Pink Star
-#gDRK1vSV : Right Arm
-#dbRLlK9Z : Right Leg
-#6NG1Qk0s : Road Sign
-#3f0T98vd : Sun Stone
-#hRDDDDq1 : Tiny Tree
-#l2NST6HS : White Key
-#tbcTYgvk : Human Soup
-#1XxPSSGR : Lime Ghost
-#qP3bFJ07 : Moon Stone
-#BbfHVPzK : Pink Ghost
-#06HyG74G : Red Crayon
-#bpH9mXcs : Red Flower
-#RJPFnTgQ : Star Stone
-#BvGWbZMb : Tomato Can
-#pJWpgnv9 : Baking Soda
-#7vQxmTcS : Balcony Key
-#qf6r2MmC : Blue Crayon
-#brClBCms : Credit Card
-#4Nby2dLz : Dad Plushie
-#f7m0Ks4k : Dresser Key
-#KgWWwMdg : Good Person
-#C709DdP0 : Lilac Ghost
-#NMBx1Zzn : Love Letter
-#SyGTv2rQ : Marshmallow
-#wC1vry1H : Metal Sheet
-#5ls8tp6R : Mom Plushie
-#BmpdtF9W : Pink Button
-#MYrfXcjv : Pink Flower
-#9RlZyFQF : Red Flowers
-#CMNQr4rj : Screwdriver
-#yYyB4y9x : Tennis Ball
-#yKDcXnKc : Bottled Soul
-#7gkW5T7W : Broken Heart
-#lW6HJ2gq : Chopped Meat
-#lfm7MWJd : Employee Key
-#VynvldCd : Flower Seeds
-#F4SrRNPQ : Green Crayon
-#RTcfDlqf : Pink Flowers
-#LGFhZlTS : Pink Plushie
-#tFV7fNlf : Pink Plushie
-#dB1v06R0 : Plastic Bags
-#P2nCmRgw : Restroom Key
-#P9r8lkH6 : Severed Head
-#1ssCGwCv : Severed Limb
-#C174Pvy7 : Severed Limb
-#KkQxzl0r : Watering Can
-#kV5yktZd : Wooden Plank
-#G5C9g2xQ : Bag of Skulls
-#3KCqfpqB : Black Flowers
-#9SqCqTYF : Green Plushie
-#dJbkMwm0 : Green Plushie
-#6P4DW4yT : Kitchen Knife
-#jFdVGcdt : Old Signature
-#RX8s0zhS : Playing Cards
-#JqlcRmq7 : Rubber Gloves
+#xqjdlqT8 : Dokumenty
+#lbc60vPN : Żeton w kształcie oka
+#25p1WkfS : PRODUKTY SPOŻYWCZE
+#QmQDkr1S : Wiedza
+#3SSqdptK : Różowa gwiazda
+#gDRK1vSV : Prawa ręka
+#dbRLlK9Z : Prawa noga
+#6NG1Qk0s : Znak drogowy
+#3f0T98vd : Kamień słoneczny
+#hRDDDDq1 : Drzewko
+#l2NST6HS : Biały klucz
+#tbcTYgvk : Ludzka zupa
+#1XxPSSGR : Limonkowy duch
+#qP3bFJ07 : Kamień księżycowy
+#BbfHVPzK : Różowy duch
+#06HyG74G : Czerwona kredka
+#bpH9mXcs : Czerwony kwiat
+#RJPFnTgQ : Kamień gwiezdny
+#BvGWbZMb : Puszka pomidorów
+#pJWpgnv9 : Soda oczyszczona
+#7vQxmTcS : Klucz do balkonu
+#qf6r2MmC : Niebieska kredka
+#brClBCms : Karta kredytowa
+#4Nby2dLz : Pluszowy tata
+#f7m0Ks4k : Kluczyk do komody
+#KgWWwMdg : Dobra osoba
+#C709DdP0 : Liliowy duch
+#NMBx1Zzn : List miłosny
+#SyGTv2rQ : Pianka
+#wC1vry1H : Blacha
+#5ls8tp6R : Pluszowa mama
+#BmpdtF9W : Różowy guzik
+#MYrfXcjv : Różowy kwiat
+#9RlZyFQF : Czerwone kwiaty
+#CMNQr4rj : Śrubokręt
+#yYyB4y9x : Piłka tenisowa
+#yKDcXnKc : Zabutelkowana dusza
+#7gkW5T7W : Złamane serce
+#lW6HJ2gq : Siekane mięso
+#lfm7MWJd : Klucz pracownika
+#VynvldCd : Nasiona kwiatów
+#F4SrRNPQ : Zielona kredka
+#RTcfDlqf : Różowe kwiaty
+#LGFhZlTS : Różowy pluszak
+#tFV7fNlf : Różowy pluszak
+#dB1v06R0 : Plastikowe torby
+#P2nCmRgw : Klucz do toalety
+#P9r8lkH6 : Odcięta głowa
+#1ssCGwCv : Odcięta kończyna
+#C174Pvy7 : Odcięta kończyna
+#KkQxzl0r : Konewka
+#kV5yktZd : Deska
+#G5C9g2xQ : Worek czaszek
+#3KCqfpqB : Czarne kwiaty
+#9SqCqTYF : Zielony pluszak
+#dJbkMwm0 : Zielony pluszak
+#6P4DW4yT : Nóż kuchenny
+#jFdVGcdt : Stary podpis
+#RX8s0zhS : Karty do gry
+#JqlcRmq7 : Gumowe rękawiczki
 #ydqNSSV5 : Walkie-Talkie
-#ps3sy3H6 : Yellow Flower
-#h0S0BmbP : 7,000,000 Bill
-#BlkBtRrX : Chopped Onions
-#3yl0rhv1 : Purple Plushie
-#9J5Hc0pF : Washed Laundry
-#s2DXWB6Z : Yellow Flowers
-#wSvQJJD6 : Yellow Plushie
-#4SfcRSkk : Yellow Plushie
-#1JGRDYC4 : Chopped Carrots
-#674QW58H : Colored Pencils
-#d3ptW3gD : Engagement Ring
-#tX2lsCq2 : Sunflower Seeds
-#XLxwLrWX : Toothless Skull
-#51YNZYdM : Chopped Potatoes
-#k1nqXctY : Christmas Lights
-#LK6XQRZn : Forged Signature
-#8WcsnhVB : Hygiene Products
-#kbyttgwb : Player Mannequin
-#bhzCn1bx : Cleaning Supplies
-#CVG4GQQS : Leyley's Backpack
-#Rkmr9KCR : Magical Magic Orb
-#Y5YFHsMK : Bottled Grime Soul
-#vwnkl3PR : Piece of a Drawing
-#N1hXLm9m : Douchebag Mannequin
-#TXNqlv9V : Dusty Purple Flowers
-#k1xs4n68 : World's Douchiest Hat
-#wHSLpbBk : Bottled Tar Soul-to-be
-#g2v39jpQ : Unidentifiable Small Object
-#sXJs04wB : Caramelized Apple & Cinnamon Soda
+#ps3sy3H6 : Żółty kwiat
+#h0S0BmbP : Rachunek na 7 milionów
+#BlkBtRrX : Siekana cebula
+#3yl0rhv1 : Fioletowy pluszak
+#9J5Hc0pF : Wyprane pranie
+#s2DXWB6Z : Żółte kwiaty
+#wSvQJJD6 : Żółty pluszak
+#4SfcRSkk : Żółty pluszak
+#1JGRDYC4 : Siekane marchewki
+#674QW58H : Kredki
+#d3ptW3gD : Pierścionek zaręczynowy
+#tX2lsCq2 : Nasiona słonecznika
+#XLxwLrWX : Bezzębna czaszka
+#51YNZYdM : Siekane ziemniaki
+#k1nqXctY : Lampki
+#LK6XQRZn : Podrobiony podpis
+#8WcsnhVB : Produkty higieniczne
+#kbyttgwb : Manekin gracza
+#bhzCn1bx : Detergenty
+#CVG4GQQS : Plecak Leyley'a
+#Rkmr9KCR : Czarodziejska kula
+#Y5YFHsMK : Zabutelkowana nieczysta dusza
+#vwnkl3PR : Fragment rysunku
+#N1hXLm9m : Manekin dupka
+#TXNqlv9V : Purpurowe kwiaty
+#k1xs4n68 : Najgłupsza na świecie czapka
+#wHSLpbBk : Zabutelkowana smolista przyszła dusza
+#g2v39jpQ : Nierozpoznawalny mały przedmiot
+#sXJs04wB : Karmelizowany napój jabłkowo-cynamonowy
 
 [DESCRIPTIONS]
 
