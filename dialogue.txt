@@ -2,135 +2,135 @@
 3.0.2 : ab05bfde5d2061e3c76e
 
 [LANGUAGE]
-English
+Polish
 
 [FONT]
 File : GameFont
 Size : 28
 
 [CREDITS]
-1 :
+1 : Krzysztof Tomczyk
 2 :
 3 :
 
 [LABELS]
-Game : The Coffin of Andy and Leyley
+Game : Trumna Andy'iego i Leyley
 Item : Item
-File : File
-Save : Save to which file?
-Load : Load which file?
+File : Plik
+Save : Zapisać do jakiego pliku?
+Load : Jaki zapis wczytać?
 
 [MENUS]
-New Game    : New Game
-Continue    : Continue
-Items       : Items
-Options     : Options
-Controls    : Controls
-Save        : Save
-Load        : Load
-Quit        : Quit
-Language    : Language
-Credits     : Credits
-Quit Game   : Quit Game
-UI Hints    : UI Hints
-Text Speed  : Text Speed
-Auto Saves  : Auto Saves
+New Game    : Nowa gra
+Continue    : Kontynuuj
+Items       : Przedmioty
+Options     : Opcje
+Controls    : Sterowanie
+Save        : Zapisz
+Load        : Wczytaj
+Quit        : Wyjdź
+Language    : Język
+Credits     : Twórcy
+Quit Game   : Wyjdź z gry
+UI Hints    : Wskazówki UI
+Text Speed  : Tempo tekstu
+Auto Saves  : Automatyczne zapisy
 Fullscreen  : Fullscreen
-Run Always  : Run Always
-Run Speed   : Run Speed
-Volume BGM  : Volume BGM
-Volume SFX  : Volume SFX
-Vision Room : Vision Room
-On          : On
-Off         : Off
-Slow        : Slow
-Fast        : Fast
-Instant     : Instant
+Run Always  : Zawsze biegnij
+Run Speed   : Szybkość biegu
+Volume BGM  : Głośność tła
+Volume SFX  : Głośność efektów
+Vision Room : Pokój Wizji
+On          : Włącz
+Off         : Wyłącz
+Slow        : Wolno
+Fast        : Szybko
+Instant     : Natychmiast
 
 [SPEAKERS]
 #t1mR4QYN : TV
 #Cr6qQTg3 : ***
-#S78FX5bH : Dad
-#1Cx9N8s4 : Dog
-#zrjGb3vm : Guy
-#xyM2M8DP : Hag
-#SLbYdGlZ : Kid
-#4k44cyMW : Man
-#S56hx4v9 : Mom
+#S78FX5bH : Tata
+#1Cx9N8s4 : Pies
+#zrjGb3vm : Facet
+#xyM2M8DP : Jędza
+#SLbYdGlZ : Dzieciak
+#4k44cyMW : Mężczyzna
+#S56hx4v9 : Mama
 #kJ8dGf8G : Andy
-#5w14yHKd : Boss
-#sGxYg2dt : Dude
-#9bTRl1Rc : Girl
-#7CPCqxvC : Host
+#5w14yHKd : Szef
+#sGxYg2dt : Koleś
+#9bTRl1Rc : Dziewczyna
+#7CPCqxvC : Gospodarz
 #H7pbhfvp : Jane
-#hrtwh0bp : Kids
-#xgHCv69n : Lady
-#wtz01zHn : Male
+#hrtwh0bp : Dzieciaki
+#xgHCv69n : Pani
+#wtz01zHn : Mężczyzna
 #yMpHZNHf : ____
 #LwvlGfpk : ? ? ?
-#bpRpdksd : Bitch
-#Fb9NPkCQ : Girls
+#bpRpdksd : Dziwka
+#Fb9NPkCQ : Dziewczyny
 #V97ZshW3 : Julia
-#l3vbxM7w : Nurse
-#JXZym03t : Other
-#Wp8RfC4G : Phone
+#l3vbxM7w : Pielęgniarka
+#JXZym03t : Inne
+#Wp8RfC4G : Telefon
 #qHdyMP0R : Renee
-#tgM7R98H : Woman
+#tgM7R98H : Kobieta
 #kR5Fy4cp : Andrew
 #x86GCl9v : Ashley
-#wsx3LbLm : Female
-#nyxqqxMz : Girl A
-#KMYtMyhK : Girl B
-#LNHg9Hbq : Girl C
+#wsx3LbLm : Kobieta
+#nyxqqxMz : Dziewczyna A
+#KMYtMyhK : Dziewczyna B
+#LNHg9Hbq : Dziewczyna C
 #ydwWdnC2 : Julia?
-#QB8rMQ1P : Leader
+#QB8rMQ1P : Lider
 #hpCv7MK8 : Leyley
-#TskgYHBV : Person
-#KRcDRxf4 : Police
-#fVQ7JVw5 : Warden
-#Bpw12bP7 : Worker
-#rbqbc8kF :  ? ? ? 
+#TskgYHBV : Osoba
+#KRcDRxf4 : Policjant
+#fVQ7JVw5 : Strażnik
+#Bpw12bP7 : Pracownik
+#rbqbc8kF :  ? ? ?
 #9mgS7Vv1 : ? ? ? ?
-#hv1Rv8bz : Cashier
-#tm4FZR2h : Cultist
+#hv1Rv8bz : Kasjer
+#tm4FZR2h : Kultysta
 #tRlKNw23 : Douglas
 #SCnqz2Cg : Dudette
-#PYK30VJP : Grandma
-#BY9JR7Jc : Grandpa
-#g9Tny9CR : Mistake
-#NG09wJ44 : Officer
-#bFGq7X3D : Service
+#PYK30VJP : Babcia
+#BY9JR7Jc : Dziadek
+#g9Tny9CR : Pomyłka
+#NG09wJ44 : Funkcjonariusz
+#bFGq7X3D : Obsługa
 #DyjzspGJ : Sodaman
-#9Kqs3Rvk : Someone
-#s09Tt0Fr : Surgeon
-#LBxj6mSK : Teacher
-#68l1DWXG : Accident
-#91jTvWls : Friend A
-#BCHJwfQB : Friend B
-#WBTsY3HL : Neighbor
-#kDqHnVnJ : Some Guy
-#jbYrchwZ : Whatever
-#4HLQggLX : Character
-#gSz3JQtH : Classmate
-#pLzsBbTg : Douchebag
-#4RTc99yb : Friend B?
-#tw0XwZPt : Mrs. Kent
-#0QmXgHRv : Grime Soul
-#5HNPCD16 : Irrelevant
-#fWMKrVlY : Shopkeeper
-#sRHdDgpD : Female voice
-#H4LRVrf4 : Lord Unknown
-#9kznf2Pc : ToxiSoda Rep
-#qYPfxvH7 : Embarrassment
-#t7v9fzzk : Fucking Idiot
-#f42pjQ07 : Fucking Snoop
-#x1g0Kxzt : Questionnaire
-#kjTGZ0p1 : Disappointment
-#5Gznnmg0 : Something Kind
-#YZhF0TWp : BubblyPoply Rep
-#y1g0HjML : Leyley's Classmate A
-#QlPqwcQP : Leyley's Classmate B
-#k6Cfjgc2 : Something Terrifying
+#9Kqs3Rvk : Ktoś
+#s09Tt0Fr : Chirurg
+#LBxj6mSK : Nauczyciel
+#68l1DWXG : Wypadek
+#91jTvWls : Przyjaciel A
+#BCHJwfQB : Przyjaciel B
+#WBTsY3HL : Sąsiad
+#kDqHnVnJ : Jakiś koleś
+#jbYrchwZ : Cokolwiek
+#4HLQggLX : Postać
+#gSz3JQtH : Kolega z klasy
+#pLzsBbTg : Dupek
+#4RTc99yb : Przyjaciel B?
+#tw0XwZPt : Pani Kent
+#0QmXgHRv : Ponura dusza
+#5HNPCD16 : Nieistotne
+#fWMKrVlY : Sklepikarz
+#sRHdDgpD : Żeński głos
+#H4LRVrf4 : Nieznany Lord
+#9kznf2Pc : Przedstawiciel ToxiSoda
+#qYPfxvH7 : Zażenowanie
+#t7v9fzzk : Jebany idiota
+#f42pjQ07 : Jebany wścibski typ
+#x1g0Kxzt : Kwestionariusz
+#kjTGZ0p1 : Rozczarowanie
+#5Gznnmg0 : Coś miłego
+#YZhF0TWp : Przedstawiciel BubblyPoply
+#y1g0HjML : Kolega A z klasy Leyley
+#QlPqwcQP : Kolega B z klasy Leyley
+#k6Cfjgc2 : Coś przerażającego
 
 [ITEMS]
 #Q64WLbpK : Axe
