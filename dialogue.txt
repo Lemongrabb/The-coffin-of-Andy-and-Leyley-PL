@@ -53,7 +53,7 @@ Instant     : Natychmiast
 #S78FX5bH : Tata
 #1Cx9N8s4 : Pies
 #zrjGb3vm : Facet
-#xyM2M8DP : Jędza
+#xyM2M8DP : Wiedźma
 #SLbYdGlZ : Dzieciak
 #4k44cyMW : Mężczyzna
 #S56hx4v9 : Mama
@@ -316,7 +316,7 @@ Instant     : Natychmiast
 #Y5YFHsMK : Zabutelkowana nieczysta dusza
 #vwnkl3PR : Fragment rysunku
 #N1hXLm9m : Manekin dupka
-#TXNqlv9V : Purpurowe kwiaty
+#TXNqlv9V : Popielato-fioletowe kwiaty
 #k1xs4n68 : Najgłupsza na świecie czapka
 #wHSLpbBk : Zabutelkowana smolista przyszła dusza
 #g2v39jpQ : Nierozpoznawalny mały przedmiot
@@ -325,16 +325,16 @@ Instant     : Natychmiast
 [DESCRIPTIONS]
 
 #Q64WLbpK (Axe)
-: CHOPPY CHOP CHOP CHOP!!!!!!!
+: CIACH CIACH CIACH!!!!!!!
 
 #XPq1mn2n (Cap)
 : 
 
 #cX5S7HDb (Cup)
-: You've been tasked to fill this with Blueberries.
+: Masz bojowe zadanie wypełnić to jagodami.
 
 #5YBRrwwM (Gun)
-: PEW PEW PEW!!! Or maybe it's BANG BANG!!
+: PIU PIU PIU!!! Czy tam PIF PAF!!
 
 #25X78jrY (Gun)
 : 
@@ -355,7 +355,7 @@ Instant     : Natychmiast
 : 
 
 #yGgkwhg1 (Book)
-: BOrING.
+: NUDYYY.
 
 #2NYFrD9F (Cans)
 : 
@@ -364,19 +364,19 @@ Instant     : Natychmiast
 : 
 
 #xjsZh7d9 (FOOD)
-: You know this! It can be eaten.
+: Kojarzysz to! Da się to zjeść.
 
 #2Zs8gxt9 (Face)
-: Kinda ugly.
+: Trochę brzydkie.
 
 #rSSVJhRL (Food)
 : 
 
 #94HdHXQ2 (Gift)
-: Desperate and insincere. Just like you!
+: Desperacki i nieszczery. Tak jak ty!
 
 #4RkFhJtS (Head)
-: Don't lose it.
+: Nie strać jej.
 
 #bcJcF5Hn (Head)
 : 
@@ -388,26 +388,26 @@ Instant     : Natychmiast
 : 
 
 #qWdV5Q5P (Rake)
-: Calm down, God. This isn't stolen, 
-: you're just borrowing it.
+: Jezu, uspokój się. To nie kradzież,
+: po prostu to pożyczasz.
 
 #kw5Pl0Q0 (Rock)
 : 
 
 #0f4PLp6B (Rope)
-: Tempting.
+: Kuszące.
 
 #6Zf8kVrz (Shoe)
-: Your old hand-me-downs.
+: Twoje znoszone buty.
 
 #jn1lFKvw (Star)
-: Remarkably small star.
+: Wyjątkowo mała gwiazda.
 
 #J6GR3WC2 (Tape)
 : 
 
 #gpRwj5NR (Yarn)
-: Crafty crafting crap.
+: Twórcze rzemieślnicze badziewie.
 
 #fSV70fzr (Blood)
 : 
@@ -425,19 +425,19 @@ Instant     : Natychmiast
 : 
 
 #rJLHX5bx (Limbs)
-: Losing these will cost you an arm and a leg.
+: Bez nich będziesz jak bez ręki (i nogi).
 
 #JXmY5ZDJ (MONEY)
-: This is useful, that's all you can remember.
+: Jedyne co o tym pamiętasz to to, że to się przydaje.
 
 #VvRgdYRd (Rocks)
-: Should throw these at Ashley...
+: Idealne do rzucania nimi w Ashley...
 
 #w91Xmr2t (Skull)
 : 
 
 #4wjVl891 (Stick)
-: Should beat Andrew with it.
+: Powinnaś nim zbić Andrew.
 
 #mJbH9Cy4 (Stick)
 : 
@@ -449,16 +449,16 @@ Instant     : Natychmiast
 : 
 
 #ySVJnTrv (Swing)
-: It's made out of a wooden board and rope.
+: Zrobiona z deski i liny.
 
 #LtDRv2vm (Teeth)
-: Cannot be exchanged for money.
+: Nie da się wymienić ich za kasę.
 
 #K5ZHqLzv (Tongs)
 : 
 
 #Cd6nDwJT (Torso)
-: The things you put in your pockets....
+: Co jeszcze wpakujesz do kieszeni....
 
 #hgzd22zx (Trash)
 : 
@@ -473,7 +473,7 @@ Instant     : Natychmiast
 : 
 
 #vzcXcTKL (Bucket)
-: You feel like kicking it.
+: Masz ochotę to kopnąć.
 
 #8c7PT8zM (Candle)
 : 
@@ -482,11 +482,11 @@ Instant     : Natychmiast
 : 
 
 #CChRhBmd (Choker)
-: A certain someone once stole 
-: your money to buy herself one.
+: Pewien ktoś ukradł twoje pieniądze,
+: aby sobie to kupić.
 
 #4K2Mqlr2 (Dishes)
-: Terribly exciting.
+: Strasznie ekscytujące.
 
 #zmvJY93F (F2 Key)
 : 
@@ -510,7 +510,7 @@ Instant     : Natychmiast
 : 
 
 #ym5CxvqQ (Organs)
-: Ew.
+: Fuj.
 
 #ynwhfCt9 (Pillow)
 : 
@@ -528,7 +528,7 @@ Instant     : Natychmiast
 : 
 
 #CrcBH2R1 (Trowel)
-: A tiny gardening shovel.
+: Mała ogrodowa łopatka.
 
 #mMs4CM6Z (Ashtray)
 : 
@@ -552,7 +552,7 @@ Instant     : Natychmiast
 : 
 
 #xN0TJRxS (Key 405)
-: Key to your next-door cultist's apartment.
+: Klucz do mieszkania kultysty z naprzeciwka.
 
 #MQdJwNKw (Laundry)
 : 
@@ -564,19 +564,20 @@ Instant     : Natychmiast
 : 
 
 #xGGDvTdl (Trinket)
-: Ashley holds on to this for dear life...
+: Ashley się tego trzyma
+: jakby od tego zależało jego życie...
 
 #vGt4FgW5 (Vinegar)
 : 
 
 #N1G9lzBC (Backpack)
-: Inside are some study materials.
+: W środku jest trochę przyborów szkolnych.
 
 #txGDLVM0 (Bandages)
-: These fix nothing.
+: Niczego nie rozwiązują.
 
 #sK3LnFLp (Car Keys)
-: VROOM VROOM, MOTHERFUCKER!!!!!!!!
+: BRUM BRUM, SKURWYSYNU!!!!!!!!
 
 #TJ2wyHFS (Car Keys)
 : 
@@ -597,7 +598,7 @@ Instant     : Natychmiast
 : 
 
 #0GFpSFL0 (Nail Gun)
-: Pew pew pew!!
+: Piu piu piu!!
 
 #PqwVb4Zr (Nail Gun)
 : 
@@ -612,13 +613,13 @@ Instant     : Natychmiast
 : 
 
 #ChCyFFcj (Batteries)
-: Surely useful later...
+: Kiedyś się pewnie przydadzą...
 
 #81FBCtPT (Chocolate)
-: She doesn't even like chocolate that much...
+: Nawet nie lubi za bardzo czekolady...
 
 #RCbLxlVH (Detergent)
-: Drink this to die.
+: Wypij by umrzeć.
 
 #xqjdlqT8 (Documents)
 : 
@@ -627,19 +628,19 @@ Instant     : Natychmiast
 : ? ? ? 
 
 #25p1WkfS (GROCERIES)
-: You can't remember why getting these is so important.
+: Nie możesz sobie przypomnieć dlaczego są ważne.
 
 #QmQDkr1S (Knowledge)
-: Accept it.
+: Przyjmij ją.
 
 #3SSqdptK (Pink Star)
 : 
 
 #gDRK1vSV (Right Arm)
-: Not Wrong Arm.
+: Prawilna ręka.
 
 #dbRLlK9Z (Right Leg)
-: In truth this is a left leg too.
+: Tak naprawdę to też lewa noga.
 
 #6NG1Qk0s (Road Sign)
 : 
@@ -648,22 +649,22 @@ Instant     : Natychmiast
 : 
 
 #hRDDDDq1 (Tiny Tree)
-: Stylish.
+: Stylowe.
 
 #l2NST6HS (White Key)
-: A key..... BUT WHITE!
+: Klucz..... ALE BIAŁY!
 
 #tbcTYgvk (Human Soup)
-: Could've been better.
+: Stać cię było na więcej.
 
 #1XxPSSGR (Lime Ghost)
-: This ghost is scary.
+: Ten duch jest straszny.
 
 #qP3bFJ07 (Moon Stone)
 : 
 
 #BbfHVPzK (Pink Ghost)
-: This ghost is a burden.
+: Ten duch to brzemię.
 
 #06HyG74G (Red Crayon)
 : 
@@ -672,14 +673,14 @@ Instant     : Natychmiast
 : 
 
 #RJPFnTgQ (Star Stone)
-: The pedantic cunt inside you is livid the Sun Stone 
-: and the Star Stone are considered different things.
+: Pedantyczna pizda w tobie jest wściekła na Kamień Słońca
+: a Kamień Gwiazd to co innego.
 
 #BvGWbZMb (Tomato Can)
-: NUTRIENTS!!!!!!
+: WARTOŚCI ODŻYWCZE!!!!!!
 
 #pJWpgnv9 (Baking Soda)
-: The label has a fish wearing a baker's cap.
+: Etykieta przedstawia rybę w czapce piekarza.
 
 #7vQxmTcS (Balcony Key)
 : 
@@ -688,10 +689,10 @@ Instant     : Natychmiast
 : 
 
 #brClBCms (Credit Card)
-: Access card to Mrs. Graves' earthly possessions.
+: Karta dostępu do dóbr doczesnych pani Graves.
 
 #4Nby2dLz (Dad Plushie)
-: Oh yeah, this exists.
+: O tak, to istnieje naprawdę.
 
 #f7m0Ks4k (Dresser Key)
 : 
@@ -700,11 +701,11 @@ Instant     : Natychmiast
 : 
 
 #C709DdP0 (Lilac Ghost)
-: This ghost is kind but aloof.
+: Ten duch jest miły, ale trochę zdystansowany.
 
 #NMBx1Zzn (Love Letter)
-: You appreciate the effort, 
-: though the prose was shite.
+: Doceniasz starania,
+: mimo, gównianego tekstu.
 
 #SyGTv2rQ (Marshmallow)
 : 
@@ -713,7 +714,7 @@ Instant     : Natychmiast
 : 
 
 #5ls8tp6R (Mom Plushie)
-: Whatever.
+: Wszystko jedno.
 
 #BmpdtF9W (Pink Button)
 : 
@@ -722,19 +723,19 @@ Instant     : Natychmiast
 : 
 
 #9RlZyFQF (Red Flowers)
-: You can walk on these. Question it not.
+: Możesz po nich chodzić. Nie kwestionuj tego.
 
 #CMNQr4rj (Screwdriver)
 : 
 
 #yYyB4y9x (Tennis Ball)
-: This is so stupid.
+: To takie głupie.
 
 #yKDcXnKc (Bottled Soul)
-: A soul in a bottle.
+: Dusza w butelce.
 
 #7gkW5T7W (Broken Heart)
-: Sad.
+: Smutne.
 
 #lW6HJ2gq (Chopped Meat)
 : 
@@ -749,15 +750,15 @@ Instant     : Natychmiast
 : 
 
 #RTcfDlqf (Pink Flowers)
-: Weed that stifles the growth of other 
-: plants. Spreads like wildfire.
+: Chwast, który hamuje wzrost innych
+: roślin. Rozprzestrzenia się jak ogień.
 
 #LGFhZlTS (Pink Plushie)
-: Useless.
+: Bezużyteczne.
 
 #tFV7fNlf (Pink Plushie)
-: A tattered old thing. Looking at it fills
-: your heart with fondness and pity.
+: Obdarta stara rzecz. Patrząc na nią, napełniasz
+: swoje serce miłością i litością.
 
 #dB1v06R0 (Plastic Bags)
 : 
@@ -766,32 +767,32 @@ Instant     : Natychmiast
 : 
 
 #P9r8lkH6 (Severed Head)
-: It's just a nightmare it's just a nightmare it's just a
-: nightmare it's just a nightmare it's just a nightmare...
+: To tylko zły sen to tylko zły sen to tylko
+: zły sen to tylko zły sen to tylko zły sen...
 
 #1ssCGwCv (Severed Limb)
-: Might be an arm. Might be a leg.
+: Może ręka. Może noga.
 
 #C174Pvy7 (Severed Limb)
 : 
 
 #KkQxzl0r (Watering Can)
-: Or can it?
+: Czy ona kona?
 
 #kV5yktZd (Wooden Plank)
 : 
 
 #G5C9g2xQ (Bag of Skulls)
-: A bag full of Skulls and Rocks.
+: Worek pełen czaszek i kamieni.
 
 #3KCqfpqB (Black Flowers)
 : 
 
 #9SqCqTYF (Green Plushie)
-: THE BEST BEST BEST BEST THING EVER!!!
+: NAJ NAJ NAJ NAJ NAJ NAJLEPSZA RZECZ EVER!!!
 
 #dJbkMwm0 (Green Plushie)
-: Oddly repulsive.
+: Dziwnie odpychający.
 
 #6P4DW4yT (Kitchen Knife)
 : 
@@ -800,8 +801,8 @@ Instant     : Natychmiast
 : 
 
 #RX8s0zhS (Playing Cards)
-: Magical Magic Cards of Magic 
-: or something along those lines.
+: Czarodziejskie magiczne karty magii
+: czy coś w tym stylu.
 
 #JqlcRmq7 (Rubber Gloves)
 : 
@@ -813,25 +814,25 @@ Instant     : Natychmiast
 : 
 
 #h0S0BmbP (7,000,000 Bill)
-: Actually just a grocery receipt.
+: Właściwie to zwykły paragon ze spożywczaka.
 
 #BlkBtRrX (Chopped Onions)
 : 
 
 #3yl0rhv1 (Purple Plushie)
-: HAHAAHAHAH!!
+: HAHAHAHAHA!!
 
 #9J5Hc0pF (Washed Laundry)
 : 
 
 #s2DXWB6Z (Yellow Flowers)
-: Bright and beautiful.
+: Jasne i piękne.
 
 #wSvQJJD6 (Yellow Plushie)
-: What a piece of shit.
+: Co za gówno.
 
 #4SfcRSkk (Yellow Plushie)
-: Nothing to say about this one.
+: Nie ma co tu mówić.
 
 #1JGRDYC4 (Chopped Carrots)
 : 
@@ -840,20 +841,20 @@ Instant     : Natychmiast
 : 
 
 #d3ptW3gD (Engagement Ring)
-: "Edgar + Natalie = 4ever!" is engraved on it.
+: Wygrawerowano na nim "Edgar + Natalie = 4ever!".
 
 #tX2lsCq2 (Sunflower Seeds)
 : 
 
 #XLxwLrWX (Toothless Skull)
-: Skull. But toothless!
+: Czaszka. Ale bezzębna!
 
 #51YNZYdM (Chopped Potatoes)
 : 
 
 #k1nqXctY (Christmas Lights)
-: Miraculously, they're not even tangled up! 
-: (Because they're new.)
+: Jakimś cudem, nie są poplątane!
+: (Może dlatego, że są nowe.)
 
 #LK6XQRZn (Forged Signature)
 : 
@@ -868,130 +869,130 @@ Instant     : Natychmiast
 : 
 
 #CVG4GQQS (Leyley's Backpack)
-: Leyley won this in a writing competition. 
-: You wrote the entry for her.
+: Leyley wygrała to w konkursie literackim.
+: Napisałeś jej wstęp.
 
 #Rkmr9KCR (Magical Magic Orb)
-: There are some trinkets inside.
+: W środku są jakieś drobiazgi.
 
 #Y5YFHsMK (Bottled Grime Soul)
 : 
 
 #vwnkl3PR (Piece of a Drawing)
-: Probably not worth fixing, but you just have to.
+: Prawdopodobnie nie warte naprawy, ale musisz.
 
 #N1hXLm9m (Douchebag Mannequin)
 : 
 
 #TXNqlv9V (Dusty Purple Flowers)
-: Dusty purple is a color. Not that 
-: the flowers aren't dusty too.
+: Popielato-fioletowy to kolor.
+: Ale kwiaty też są zabrudzone, żeby nie było.
 
 #k1xs4n68 (World's Douchiest Hat)
-: Fuck whoever wears this.
+: Ktokolwiek to nosi, jebać go.
 
 #wHSLpbBk (Bottled Tar Soul-to-be)
 : 
 
 #g2v39jpQ (Unidentifiable Small Object)
-: Demon trinket!
+: Diabelska rzecz!
 
 #sXJs04wB (Caramelized Apple & Cinnamon Soda)
-: A waste of money, but......
+: Strata pieniędzy, ale......
 
 
 [CommonEvents.json]
 
 #F6mK5ZQ0 (Narrator)
-: You're feeling dizzy...
+: Czujesz zawroty głowy...
 
 #rz4CQmyz (Andrew)
-: "Dammit Ashley, I told you not to overdo it!"
+: "Cholera Ashley, mówiłem ci, żebyś nie przesadziła!"
 
 #bz5c1ClQ (Ashley)
 : ". . . . . . ?"
 
 #hpjNPckX (TV)
-: "Good news once again!"
+: "Znów dobre wieści!"
 
 #MT195j9V (TV)
-: "Some of you maaaaay have heard from your loved ones, that 
-: there's been supply shortages in the quarantined households."
+: "Niektórzy z was mogli słyszeć od swoich bliskich, że
+: w gospodarstwach domowych objętych kwarantanną brakuje zaopatrzenia".
 
 #bJ89lqWt (TV)
-: "Well boy, are we pleased to announce that 
-: all of that has been taken care of!"
+: "Cóż, z przyjemnością ogłaszamy, że
+: wszystko to zostało załatwione!"
 
 #ZsJPCBvD (Ashley)
-: ".....It has?"
+: ".....To ma?"
 
 #Z8hrgRth (Andrew)
-: "Does it look like I'm eating right now?"
+: "A wyglądam jakbym jadł?"
 
 #qcsv1hrP (Ashley)
 : "................"
 
 #Zx870yR3 (TV)
-: "On that note, we'd like to remind all of you 
-: not to enter the contaminated apartments."
+: "W związku z tym chcielibyśmy przypomnieć wam,
+: abyście nie wchodzili do skażonych mieszkań."
 
 #HzvVn0PJ (TV)
-: "No, your friends don't need anything. 
-: Everything has been taken care of."
+: "Nie, waszym przyjaciołom niczego nie brakuje.
+: O wszystko zadbano."
 
 #1LGTjpMc (TV)
-: "Should you still feel the urge to help, the staff will be
-: administering bullets directly into your brain as a thank you."
+: „Jeśli nadal będziecie chcieli pomóc, personel
+: w ramach podziękowania wstrzyknie wam kule prosto w mózg”.
 
 #NQ1hjwRw (TV)
-: "I hope that clears things up a bit!"
+: „Mam nadzieję, że to trochę rozjaśniło sprawę!”
 
 #ZFCT7KJH (TV)
-: "Moving on to our next story! A brand 
-: new art museum will be---....."
+: "Przechodząc do kolejnego tematu!
+: Nowe muzeum sztutki będzie---....."
 
 #SLQBXYZX (Narrator)
-: You drift back into unconsciousness.
+: Powoli odpływasz.
 
 #4RgWRKj5 (Narrator)
-: There's a bunch of call girl ads stuck to the wall.
+: Na ścianie przyklejono parę reklam dziewczynek na telefon.
 
 #qBPr7FVG (Ashley)
-: "Oh my. Maybe I should leave my number here..."
+: "O jejku. Może powinnam zostawić tu swój numer..."
 
 #yj9YWygT (Andrew)
-: "Absolutely not."
+: "Wykluczone."
 
 #KQ3njpCb (Ashley)
-: "What? We need the cash. And it 
-: would be tax-free to boot!"
+: "No co? Potrzebujemy kasy.
+: a ta by była wolna od podatku!"
 
 #xMTqtFgx (Andrew)
-: "Say another word and I'll backhand you."
+: "Jeszcze słowo a cię zdzielę."
 
 #GHvBR728 (Ashley)
-: "Sheesh. Learn to take a joke, jackass."
+: "Jezu. Naucz się wyczuwać żart, ośle."
 
 #bxwTsn4R (Andrew)
-: "Learn to make a joke, dumbass."
+: „Naucz się żartować, głupku”.
 
 #nTZJVkGx (Andrew)
-: "You're so out there, that I can't tell 
-: whether you're being serious or not..."
+: "Jesteś tak oderwana od rzeczywistości,
+: że ciężko stwierdzić kiedy mówisz poważnie, a kiedy nie..."
 
 #DL9zXZ9x (Ashley)
-: "I'm obviously not being serious!! We
-: don't even own a phone right now!"
+: "Oczywiście, że nie mówię poważnie!!
+: Nie mamy nawet telefonu!"
 
 #sC3DNxM5 (Ashley)
-: "And would you honest-to-god 
-: backhand me just like that?"
+: "A ty naprawdę byłbyś w stanie
+: mnie tak po prostu uderzyć?"
 
 #v24y4Mt5 (Andrew)
-: "Well, not right here anyway."
+: "Cóż, może w tym miejscu."
 
 #dWxk1TPG (Ashley)
-: "Wow... Okay, wife-beater."
+: "Łał... Okej, żono-bijco."
 
 #mG3l2YyR (Andrew)
 : "HahahHAHa!!"
